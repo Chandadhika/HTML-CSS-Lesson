@@ -1,0 +1,65 @@
+body {
+    margin: 10px;
+    padding: 10px;
+}
+p {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.one {
+    color: red;
+    border-style: dotted;
+}
+
+.two {
+    color: blue;
+    border-style: dashed;
+}
+
+.three {
+    color: rgb(255, 0, 200);
+    border-style: solid;
+}
+
+.fore {
+    color: blueviolet;
+    border-style: double;
+}
+
+.five  {
+    color: rgb(114, 151, 34);
+    border-style: groove;
+}
+
+.six  {
+    color: rgb(4, 169, 9);
+    border-style: ridge;
+}
+
+.sev  {
+    color: rgb(255, 0, 106);
+    border-style: inset;
+}
+
+.ex  {
+    color: rgb(212, 206, 19);
+    border-style: outset;
+}
+
+.nine  {
+    color: rgb(53, 25, 25);
+    border-style: none;
+}
+
+.ten  {
+    color: rgb(196, 47, 47);
+    border-style: hidden;
+}
+
+.elev  {
+    color: red;
+    border-style: double solid dashed dotted;
+}
