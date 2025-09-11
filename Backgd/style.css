@@ -1,0 +1,18 @@
+/* color and image */
+body {
+    background-color: lightblue;
+    background-image: url("./assets/images/လှူဒါန်းခြင်း၁.jpeg");
+    /* background-repeat: repeat-y; */
+    /* background-repeat: round; */
+    /* background-repeat: space; */
+    /* background-repeat: no-repeat; */
+    /* background-position-y: 50px; */
+}
+
+/* header text */
+h1 {
+    font-size: 45px;
+    color: #000;
+    text-align: center;
+}
+
