@@ -10,13 +10,13 @@ body {
     /* background-attachment: scroll; */
     background-size: cover;
     /* min-height: fit-content; */
-
+    background-blend-mode: luminosity;
 }
 
 /* header text */
 h1 {
     font-size: 45px;
-    color: #000;
+    color: #e6e30a;
     text-align: center;
 }
 
